@@ -1,0 +1,16 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<Automation>
+	<Execution>
+		<BookHotel_TC001>
+			<url>https://adactinhotelapp.com/</url>
+			<username>samibaig123</username>
+			<password>89O570</password>
+		</BookHotel_TC001>
+		<!-- To Check Multiple Users Login-->
+		<!--<BookHotel_TC001>-->
+		<!--		<url>https://adactinhotelapp.com/</url>-->
+		<!--		<username>samibaig162</username>-->
+		<!--		<password>samisami</password>-->
+		<!--	</BookHotel_TC001>-->
+	</Execution>
+</Automation>
